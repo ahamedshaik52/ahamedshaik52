@@ -50,13 +50,6 @@ I'm a full-stack developer passionate about building real products — from slee
 Self-hosted AI avatar video generation platform. Upload a face, type a script, pick a voice — get a talking video. Zero paid APIs.
 > **Stack:** Next.js 14 · FastAPI · Kokoro TTS (ONNX) · Wav2Lip · PostgreSQL · AWS S3 · JWT Auth
 
-### 🔍 [Advance Person Search](https://github.com/ahamedshaik52/advance-person-search)
-Advanced demographic search tool for Power Apps / Dynamics 365 with race, gender & filter capabilities.
-> **Stack:** JavaScript · Power Apps · Dynamics 365 · CRM Web Resources
-
-### 📅 [PowerApps Date Autoformat](https://github.com/ahamedshaik52/powerapps-date-autoformat)
-JavaScript web resource that auto-formats date-of-birth inputs (MM/DD/YYYY) in Power Apps Model-Driven Apps before CR validation fires.
-> **Stack:** JavaScript · Power Apps · Dynamics 365
 
 ---
 
