@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://my-avatar-smoky.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://linkedin.com/in/ahamedshaik52" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=googlemaps" />
+  <a href="https://linkedin.com/in/shaikahamed" target="_blank"><img src="https://img.hshields.io/badge/LihnkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-USA-blue?style=for-the-badge&logo=googlemaps" />
 </p>
 
 ---
